@@ -34,6 +34,9 @@ for row in tr[0:6]:
       print('Price 24 Hours Prior:', change)
 
       print()
+      input()
+
+      
 
 
 #tests if Bitcoin is below 40,000
